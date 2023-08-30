@@ -1,0 +1,12 @@
+.env
+.husky
+dist
+node_modules
+.gitignore
+.git
+.eslintignore
+.eslintrc.json
+.prettierignore
+package.json
+package-lock.json
+tsconfig.json
